@@ -1,4 +1,4 @@
-# circleci-lastmile-ai 1234
+# circleci-lastmile-ai
 
 ## Pre-requisites
 
